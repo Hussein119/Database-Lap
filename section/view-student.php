@@ -55,7 +55,6 @@ include "dbconfig.php";
                     <th>Age</th>
                     <th>Email</th>
                     <th>Action</th>
-
                 </tr>
             </thead>
             <tbody>
